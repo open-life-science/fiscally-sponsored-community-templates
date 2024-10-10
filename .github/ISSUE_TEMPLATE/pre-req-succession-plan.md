@@ -1,5 +1,5 @@
 ---
-name: Pre-req: Succession plan
+name: "Pre-req: Succession plan"
 about: What happens if a leader of an FSC leaves or disappears 
 title: Succession plan for leadership
 ---
