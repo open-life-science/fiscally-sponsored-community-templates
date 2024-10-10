@@ -1,6 +1,7 @@
 ---
-name: prereq-governance-committee
-about: Prerequisite-step for potential FSCS
+name: "Pre-req: Governance committee"
+about: Prerequisite-step for potential FSCs
+title: "Pre-req: Governance committee"
 labels: 
   - pre-requisite
 ---
