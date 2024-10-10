@@ -1,5 +1,5 @@
 ---
-name: Dispute resolution process
+name: "Pre-req: Dispute resolution process"
 about: How the potential FSC will resolve internal challenges
 title: 'Dispute Resolution process'
 labels: 
