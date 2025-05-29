@@ -7,7 +7,7 @@ Template repo to initiate project management for applying to be fiscally sponsor
  Self-paced guidance for fiscal sponsorship. Feel free to make your own copy of this repo and [follow the pre-requisite issues](https://github.com/open-life-science/fiscally-sponsored-community-templates/issues/new/choose). 
 
  ---
-- [ ] Click "use this repo" (top right) to create your own copy of the repo. 
+- [ ] Click "use this template" (green button on the top right) to create your own copy of the repo. 
 - [ ] Make sure to ask OLS who your **account manager** is! 
 - [ ] Add @biley, @yochannah, and @pherterich to the forked repo
 
