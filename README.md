@@ -9,6 +9,6 @@ Template repo to initiate project management for applying to be fiscally sponsor
  ---
 - [ ] Click "use this template" (green button on the top right) to create your own copy of the repo. 
 - [ ] Make sure to ask OLS who your **account manager** is! 
-- [ ] Add @biley, @yochannah, and @pherterich to the forked repo
+- [ ] Add @bethaniley, @yochannah, and @pherterich to the forked repo
 
  ---
