@@ -11,3 +11,16 @@ Template repo to initiate project management for applying to be fiscally sponsor
 - [ ] Add @bethaniley, @yochannah, @pherterich, and @lauracarter to the forked repo
 
  ---
+
+If you're applying to be a Fiscally Sponsored Community, you'll need to complete:
+
+- [ ] Relationship with OLS
+- [ ] Dispute Resolution Policy
+- [ ] Governance Committee
+- [ ] Succession Plan
+- [ ] FSC Roadmap
+
+If you're applying to be an Incubation Fellow, you'll need to complete:
+
+- [ ] Relationship with OLS
+- [ ] Incubation Fellow Roadmap
