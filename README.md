@@ -19,8 +19,10 @@ If you're applying to be a Fiscally Sponsored Community, you'll need to complete
 - [ ] Governance Committee
 - [ ] Succession Plan
 - [ ] FSC Roadmap
+- [ ] Grant Scoping
 
 If you're applying to be an Incubation Fellow, you'll need to complete:
 
 - [ ] Relationship with OLS
 - [ ] Incubation Fellow Roadmap
+- [ ] Grant Scoping
