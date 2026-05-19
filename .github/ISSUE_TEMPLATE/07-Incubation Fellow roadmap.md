@@ -11,7 +11,7 @@ assignees: ''
 
 
 # Aims
-<--! What will your community look like? You might be aiming for an OLS Fiscally Sponsored Community, an independent organisation, or to work with another organisation-->
+<--! What will your community look like and what will it do? You might be aiming for an OLS Fiscally Sponsored Community, an independent organisation, or to work with another organisation-->
 
 
 # Activities
