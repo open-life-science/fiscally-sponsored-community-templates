@@ -26,4 +26,4 @@ I/We have checked that:
 <--! Some grants exclude certain kinds of costs. If a grant says that it will not cover overheads or administrative fees, it is likely that it will not cover the fees that OLS covers-->
 
 # Draft budget (optional)
-<--! If you have already started drawing up a budget, put a link to it here-->
+<--! If you have already started drawing up a budget, put a link to it here. You can use the [OLS budget template](https://docs.google.com/spreadsheets/d/1JjFrWnZ0OgngXN0TM46o-Llo5m48XJwHQMCiEC5HFPY/copy) (This link will create a new copy of the document)-->
