@@ -9,7 +9,7 @@ Template repo to initiate project management for applying to be fiscally sponsor
  ---
 - [ ] Click "use this template" (green button on the top right) to create your own copy of the repo. 
 - [ ] Add @bethaniley, @yochannah, @pherterich, and @lauracarter to your copy of the repo
-- [ ] 
+- [ ] Click Issues -> New Issue to choose from the selected issue templates
 
  ---
 
